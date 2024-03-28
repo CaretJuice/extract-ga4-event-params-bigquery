@@ -1,0 +1,1 @@
+# extract-ga4-event-params-bigquery
